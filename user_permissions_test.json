@@ -1,0 +1,19 @@
+{
+    "base_dir": "/volume1/",
+	"users": {
+		"jim": {
+			"username": "jim",
+			"password": "jimmyJim",
+            "full_name": "Jimmy Jim",
+            "e_mail": "j@user2.com",
+			"permissions": {
+				"root_dir": "music/Recordings/mp3s/",
+				"sub_dirs": {
+					"Band A": "r",
+					"Band B": "r",
+					"Band C": "r"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"default_variables": {
+		"system_group_members": ["administrators", "admin"],
+		"prevent_sharing_files": ["prevent_share.txt"],
+		"exclude_dirs": ["pycache", "recycle", "@eaDir", "@tmp", "snapshot"],
+		"exclude_files": [".swp", "SYNOINDEX_MEDIA_INFO"],
+		"base_dir": "/volume1/",
+		"cmd_output_file": "cmd_output.txt"
+	}
+}
